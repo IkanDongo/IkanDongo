@@ -1,4 +1,4 @@
-# 💻 **Noel Liman**
+# Hi there i'm **Noel Liman**
 
 📍 _West Jakarta, Indonesia_  
 📞 +62-821-1212-3166  
@@ -10,7 +10,7 @@
 ## 🧭 **Profile**
 
 A fifth-semester Informatics student with a strong passion for technology and a continuous drive for learning and growth.  
-Focused on **data analysis**, **web development**, and **mobile app creation** to deliver efficient and meaningful digital solutions.
+Focused on **data science**, **web development**, and **mobile app creation** to deliver efficient and meaningful digital solutions.
 
 ---
 
@@ -60,7 +60,7 @@ Focused on **data analysis**, **web development**, and **mobile app creation** t
 
 - Built a **lifestyle e-commerce media site** using _Laravel_.
 - Combined blog and fashion article posting with product checkout functionality.  
-  🔗 [📂 Files](https://drive.google.com/drive/folders/1COuYHRY1xSdHdWLASM3tyxecLm6OhE02?lfhs=2)
+  🔗 [💾 GitHub](https://github.com/IkanDongo/UAS_FRONTEND_PROGRAMMING/tree/main/FRONTEND_PROGRAMMING_UAS) · 🔗 [🎥 Demo](https://drive.google.com/drive/folders/1COuYHRY1xSdHdWLASM3tyxecLm6OhE02?lfhs=2)
 
 ---
 
@@ -68,7 +68,7 @@ Focused on **data analysis**, **web development**, and **mobile app creation** t
 
 - Implemented **GLCM**, **PCA**, and **KNN** methods for image classification.
 - Focused on detecting and classifying potato leaf diseases.  
-  🔗 [💾 GitHub](https://github.com/IkanDongo/UAS_FRONTEND_PROGRAMMING/tree/main/FRONTEND_PROGRAMMING_UAS)
+  🔗 [📂 Files](https://untarid-my.sharepoint.com/:w:/g/personal/noel_535230067_stu_untar_ac_id/EYP1IQmbnqROpGIN-3O7ZW4Bpa3HZhix3xfW5OrN9_Kbww?e=L2ahaF)
 
 ---
 
@@ -93,27 +93,21 @@ Focused on **data analysis**, **web development**, and **mobile app creation** t
 
 ---
 
-## 🪪 **Certification**
-
-🎖️ **Red Hat System Administration — Red Hat Academy**
-
----
-
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoelLiman&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelLiman&layout=compact&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IkanDongo&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkanDongo&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
 ---
 
-## 🧩 **Tech Stack**
+<!-- ## 🧩 **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,flutter,laravel,unity,mysql,figma,vscode,git" />
 </p>
 
----
+--- -->
 
 ⭐ _“Learning never exhausts the mind — only strengthens it.”_
