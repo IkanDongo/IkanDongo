@@ -14,12 +14,12 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 
 ---
 
-## 🚀 **Projects**
+<!-- ## 🚀 **Projects**
 
 ### 🌐 **AINIZER**
 
 - Designed a **file-sorting website** using _Figma_ and developed it with _JavaScript_.
-- Participated in all stages of the **Software Development Life Cycle (SDLC)**.  
+- Participated in all stages of the **Software Development Life Cycle (SDLC)**.
   🔗 [🎥 Demo](https://youtu.be/go2F5eKexec) · [💾 GitHub](https://github.com/Hendry535230151/AI)
 
 ---
@@ -27,7 +27,7 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 ### 📡 **File Sharing Protocol — Python Network Programming**
 
 - Built a distributed **File Sharing Protocol** in _Python_ using _GNS3_ and _Oracle VirtualBox_.
-- Ensured efficient and reliable data transfer in a virtualized environment.  
+- Ensured efficient and reliable data transfer in a virtualized environment.
   🔗 [🎥 Demo](https://drive.google.com/file/d/1GFBOGSaCRHEXB-4D_qqX496BGxYa7gpN/view)
 
 ---
@@ -35,7 +35,7 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 ### 🍱 **Meal Go**
 
 - Developed a **mobile food delivery app** using _Flutter_.
-- Collaborated in a group to design user flows and cart management features.  
+- Collaborated in a group to design user flows and cart management features.
   🔗 [💾 GitHub](https://github.com/MakotoMachiYuki/Meal-Go) · [🎥 Demo](https://youtu.be/L5KDKOhNRmw)
 
 ---
@@ -43,7 +43,7 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 ### 🎮 **Platformer Parkour**
 
 - Created a **2D platformer game** individually using _Unity_.
-- Implemented player movement, door teleportation, and key-lock systems.  
+- Implemented player movement, door teleportation, and key-lock systems.
   🔗 [🎥 Demo](https://youtu.be/F4tY13E2c5U?si=SCFv95Ws0Vx_RRAC)
 
 ---
@@ -51,7 +51,7 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 ### 🗣️ **CODEGRAM**
 
 - Developed a **social media-themed website** using _Laravel_.
-- Focused on post creation, comment interaction, and responsive UI.  
+- Focused on post creation, comment interaction, and responsive UI.
   🔗 [💾 GitHub](https://github.com/MakotoMachiYuki/BackEnd-Final-Kel2)
 
 ---
@@ -59,7 +59,7 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 ### 👗 **WebStyle**
 
 - Built a **lifestyle e-commerce media site** using _Laravel_.
-- Combined blog and fashion article posting with product checkout functionality.  
+- Combined blog and fashion article posting with product checkout functionality.
   🔗 [💾 GitHub](https://github.com/IkanDongo/UAS_FRONTEND_PROGRAMMING/tree/main/FRONTEND_PROGRAMMING_UAS) · 🔗 [🎥 Demo](https://drive.google.com/drive/folders/1COuYHRY1xSdHdWLASM3tyxecLm6OhE02?lfhs=2)
 
 ---
@@ -67,10 +67,10 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 ### 🥔 **Potato Leaf Disease Classification**
 
 - Implemented **GLCM**, **PCA**, and **KNN** methods for image classification.
-- Focused on detecting and classifying potato leaf diseases.  
+- Focused on detecting and classifying potato leaf diseases.
   🔗 [📂 Files](https://untarid-my.sharepoint.com/:w:/g/personal/noel_535230067_stu_untar_ac_id/EYP1IQmbnqROpGIN-3O7ZW4Bpa3HZhix3xfW5OrN9_Kbww?e=L2ahaF)
 
----
+--- -->
 
 ## 🧠 **Skills**
 
