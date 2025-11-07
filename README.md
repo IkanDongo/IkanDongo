@@ -16,6 +16,22 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 
 <!-- ## 🚀 **Projects**
 
+### 🥔 **Potato Leaf Disease Classification**
+
+- Implemented **GLCM**, **PCA**, and **KNN** methods for image classification.
+- Focused on detecting and classifying potato leaf diseases.
+  🔗 [📂 Files](https://untarid-my.sharepoint.com/:w:/g/personal/noel_535230067_stu_untar_ac_id/EYP1IQmbnqROpGIN-3O7ZW4Bpa3HZhix3xfW5OrN9_Kbww?e=L2ahaF)
+
+---
+
+### 🌸 **Integration of PCA and KNN for the Classification of 5 Types of Flower Images Based on Color and Texture**
+
+- Actively contributed to a project focused on classifying five types of flower images using image processing and machine learning.
+- Integrated PCA and KNN methods for feature extraction based on color and texture characteristics.
+🔗 [📂 Files]([https://untarid-my.sharepoint.com/:w:/g/personal/noel_535230067_stu_untar_ac_id/EYP1IQmbnqROpGIN-3O7ZW4Bpa3HZhix3xfW5OrN9_Kbww?e=L2ahaF](https://untarid-my.sharepoint.com/:w:/g/personal/noel_535230067_stu_untar_ac_id/EYUSPPthUBdPuLGy4JdvHbMBfvyveCPc7lBqChM3-J6BAQ?rtime=vyEXAKMd3kg))
+
+---
+
 ### 🌐 **AINIZER**
 
 - Designed a **file-sorting website** using _Figma_ and developed it with _JavaScript_.
@@ -64,11 +80,7 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 
 ---
 
-### 🥔 **Potato Leaf Disease Classification**
 
-- Implemented **GLCM**, **PCA**, and **KNN** methods for image classification.
-- Focused on detecting and classifying potato leaf diseases.
-  🔗 [📂 Files](https://untarid-my.sharepoint.com/:w:/g/personal/noel_535230067_stu_untar_ac_id/EYP1IQmbnqROpGIN-3O7ZW4Bpa3HZhix3xfW5OrN9_Kbww?e=L2ahaF)
 
 --- -->
 
@@ -81,15 +93,18 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 
 ### 💻 Technical
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
 
 ---
 
@@ -105,7 +120,9 @@ Focused on **data science**, **web development**, and **mobile app creation** to
 <!-- ## 🧩 **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,flutter,laravel,unity,mysql,figma,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,cpp,js,html,flutter,laravel,unity,figma,vscode,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48" alt="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="48" alt="Tableau" />
 </p>
 
 --- -->
